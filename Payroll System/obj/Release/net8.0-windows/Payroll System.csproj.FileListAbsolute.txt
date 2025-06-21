@@ -1,0 +1,48 @@
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\Payroll System.exe
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\Payroll System.deps.json
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\Payroll System.runtimeconfig.json
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\Payroll System.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\Payroll System.pdb
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\EntityFramework.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\System.Data.SQLite.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.csproj.AssemblyReference.cache
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.AdminRegistration.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.College.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Dashboard.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.editadmin.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.InputStaff.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.JuniorHigh.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Login.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.MainFunctionStaff.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.paysliphistory.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Properties.Resources.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Selection.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.SendToStaff.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.SeniorHigh.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Teachercalc.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.TeacherDashboard.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Teachers.resources
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.csproj.GenerateResource.cache
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.AssemblyInfoInputs.cache
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.AssemblyInfo.cs
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll .CDE2D2A4.Up2Date
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\refint\Payroll System.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.pdb
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll System.genruntimeconfig.cache
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\ref\Payroll System.dll
+E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\obj\Release\net8.0-windows\Payroll_System.Credits.resources
