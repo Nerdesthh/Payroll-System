@@ -2,6 +2,10 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Programming_Language-C%23-purple" alt="shields"><img src="https://img.shields.io/badge/Project_Status-COMPLETE-green" alt="shields"></p>
 
+<h2>🚀 Demo</h2>
+
+[DEMO COMMING SOON](DEMO COMMING SOON)
+
   
   
 <h2>🧐 Features</h2>
@@ -18,8 +22,8 @@ Here're some of the project's best features:
 
 <p>1. Extract Files</p>
 
-<p>2. Open Folders Until you reached Payroll System</p>
+<p>2. Open Payrollsystem.exe</p>
 
-<p>3. Open SLN file</p>
+<p>3. Create Account</p>
 
-<p>4. Click RUN</p>
+<p>4. ENJOY</p>
