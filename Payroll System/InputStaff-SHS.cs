@@ -19,7 +19,7 @@ namespace Payroll_System
 {
     public partial class InputStaff : Form
     {
-        SqlConnection ConnectData = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\Staffs.mdf"";Integrated Security=True;Connect Timeout=30;");
+        SqlConnection ConnectData = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\GitHub\Payroll-System\Payroll System\Staffs.mdf"";Integrated Security=True;Connect Timeout=30");
         public InputStaff()
         {
             InitializeComponent();

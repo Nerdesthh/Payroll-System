@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\New folder\Payroll System.exe
+C:\Users\user\Desktop\New folder\Payroll System.dll
+C:\Users\user\Desktop\New folder\Payroll System.deps.json
+C:\Users\user\Desktop\New folder\Payroll System.runtimeconfig.json
+C:\Users\user\Desktop\New folder\Payroll System.pdb
+C:\Users\user\Desktop\New folder\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\New folder\EntityFramework.dll
+C:\Users\user\Desktop\New folder\System.Data.SQLite.dll
+C:\Users\user\Desktop\New folder\System.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\New folder\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\New folder\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\New folder\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\New folder\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\New folder\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\New folder\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Desktop\New folder\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Desktop\New folder\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -19,7 +19,7 @@ namespace Payroll_System
         public string folderpath { get; set; } //9
 
 
-        SqlConnection ConnectData = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\Staffs.mdf"";Integrated Security=True;Connect Timeout=30;");
+        SqlConnection ConnectData = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\GitHub\Payroll-System\Payroll System\Staffs.mdf"";Integrated Security=True;Connect Timeout=30");
         //starts to create data from the datagrid on InputStaff
         public List<EmployeeDatas> StaffListData(string departmentFilter = "")
         {

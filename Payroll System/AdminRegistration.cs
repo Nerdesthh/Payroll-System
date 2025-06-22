@@ -23,7 +23,7 @@ namespace Payroll_System
         }
 
         //connects sql to this class
-        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""E:\Payroll System - MAIN\Payroll System222222222\Payroll System\Payroll System\loginData.mdf"";Integrated Security=True;Connect Timeout=30;");
+        SqlConnection connect = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\GitHub\Payroll-System\Payroll System\loginData.mdf"";Integrated Security=True;Connect Timeout=30");
         private void AdminRegistration_Load(object sender, EventArgs e)
         {
         }
