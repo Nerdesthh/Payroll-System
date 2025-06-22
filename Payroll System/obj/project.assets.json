@@ -1221,11 +1221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Payroll System - MAIN - Copy (2)\\Payroll System222222222\\Payroll System\\Payroll System\\Payroll System.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Payroll-System\\Payroll System\\Payroll System.csproj",
       "projectName": "Payroll System",
-      "projectPath": "E:\\Payroll System - MAIN - Copy (2)\\Payroll System222222222\\Payroll System\\Payroll System\\Payroll System.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Payroll-System\\Payroll System\\Payroll System.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Payroll System - MAIN - Copy (2)\\Payroll System222222222\\Payroll System\\Payroll System\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Payroll-System\\Payroll System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
