@@ -2,12 +2,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Programming_Language-C%23-purple" alt="shields"><img src="https://img.shields.io/badge/Project_Status-COMPLETE-green" alt="shields"></p>
 
-<h2>🚀 Demo</h2>
 
-[DEMO COMMING SOON](DEMO COMMING SOON)
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
